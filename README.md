@@ -8,11 +8,11 @@
 
 ## 🧠 Sobre mim
 
-Sou desenvolvedor front-end em formação, estudando e praticando **HTML, CSS e JavaScript** por meio de projetos próprios.
+Sou desenvolvedor front-end em formação, estudando e praticando HTML, CSS e JavaScript por meio de projetos próprios, com foco em estrutura, estilização moderna e interatividade.
 
-Tenho experiência prévia com **suporte técnico e manutenção de equipamentos**, o que me deu uma forte base em resolução de problemas, lógica e atendimento.
+Possuo experiência profissional em suporte técnico, manutenção e configuração de equipamentos, incluindo ajustes de software e configuração de rede (IP, gateway, DNS), entregando equipamentos prontos para uso em ambientes operacionais e lojas.
 
-Atualmente estou em formação em **Gestão de Tecnologia da Informação (UNICV)** e busco minha **primeira oportunidade como desenvolvedor front-end** para aprender, colaborar e evoluir profissionalmente.
+Atualmente curso Gestão de Tecnologia da Informação (UNICV) e estou em transição de carreira para a área de desenvolvimento front-end, buscando minha primeira oportunidade para aprender, colaborar e evoluir profissionalmente.
 
 ---
 
