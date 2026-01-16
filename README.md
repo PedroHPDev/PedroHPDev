@@ -51,7 +51,7 @@ Projeto inicial focado em fundamentos de front-end.
 
 ## 📫 Contato
 
-- 💼 LinkedIn: *(adicione quando quiser)*
+- 💼 LinkedIn: https://www.linkedin.com/in/pedro-henrique-ferreira-053a4415a/
 - 🐙 GitHub: https://github.com/PedroHPDev
 
 ---
