@@ -2,7 +2,7 @@
 
 🎯 Desenvolvedor Front-End em formação  
 💻 HTML • CSS • JavaScript  
-🔄 Em transição de carreira para tecnologia
+
 
 ---
 
