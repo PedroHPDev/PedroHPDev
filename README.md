@@ -1,60 +1,44 @@
 # 👋 Olá, eu sou Pedro Henrique
 
-🎯 Desenvolvedor Front-End em formação  
-💻 HTML • CSS • JavaScript  
-
-
----
-
-## 🧠 Sobre mim
-
-Sou desenvolvedor front-end em formação, estudando e praticando HTML, CSS e JavaScript por meio de projetos próprios, com foco em estrutura, estilização moderna e interatividade.
-
-Possuo experiência profissional em suporte técnico, manutenção e configuração de equipamentos, incluindo ajustes de software e configuração de rede (IP, gateway, DNS), entregando equipamentos prontos para uso em ambientes operacionais e lojas.
-
-Atualmente curso Gestão de Tecnologia da Informação (UNICV) e estou em transição de carreira para a área de desenvolvimento front-end, buscando minha primeira oportunidade para aprender, colaborar e evoluir profissionalmente.
+### 🎯 Desenvolvedor Front-End Júnior | Graduando em Gestão de TI
+💡 HTML5 • CSS3 • JavaScript (ES6) • Git & GitHub
 
 ---
 
-## 🚀 Projetos
+### 🧠 Sobre mim
 
-### 🛠️ Simulador de Suporte Técnico
-Simulação de atendimento técnico com perguntas e respostas dinâmicas.
+Sou profissional da área de TI com sólida experiência em infraestrutura, suporte técnico e hardware, expandindo minha atuação para a engenharia de software como **Desenvolvedor Front-End**. 
 
-🔗 **Projeto online:**  
-👉 https://pedrohpdev.github.io/support-tech-simulator/
-
-📂 **Repositório:**  
-👉 https://github.com/PedroHPDev/support-tech-simulator
+Atualmente curso **Gestão de Tecnologia da Informação (UniCV)** e me especializo no ecossistema Front-End. Desenvolvo projetos aplicando conceitos de estrutura semântica, estilização moderna, responsividade e interatividade dinâmica. Unindo minha bagagem de resolução de problemas de infraestrutura à escrita de código, busco minha primeira oportunidade como Dev Júnior.
 
 ---
 
-### 🌐 Front-End Basics
-Projeto inicial focado em fundamentos de front-end.
+### 🚀 Projetos em Destaque
 
-🔗 **Projeto online:**  
-👉 https://pedrohpdev.github.io/front-end-basics-1/
+#### 🛠️ Simulador de Suporte Técnico
+Simulação de atendimento técnico com perguntas e respostas dinâmicas, aplicando lógica em JavaScript e manipulação do DOM.
+* 🔗 [Projeto Online](https://pedrohpdev.github.io/support-tech-simulator/)
+* 📂 [Repositório do Código](https://github.com/PedroHPDev/support-tech-simulator)
 
-📂 **Repositório:**  
-👉 https://github.com/PedroHPDev/front-end-basics-1
-
----
-
-## 🧩 Tecnologias
-
-- HTML5
-- CSS3 (Flexbox, responsividade)
-- JavaScript (DOM, lógica, eventos)
-- Git & GitHub
+#### 🌐 Noções Básicas de Front-End
+Projeto focado em solidificar os fundamentos de semântica e estilização web.
+* 🔗 [Projeto Online](https://pedrohpdev.github.io/front-end-basics-1/)
+* 📂 [Repositório do Código](https://github.com/PedroHPDev/front-end-basics-1)
 
 ---
 
-## 📫 Contato
+### 🛠️ Tecnologias e Ferramentas
 
-- 💼 LinkedIn: https://www.linkedin.com/in/pedro-henrique-ferreira-053a4415a/
-- 🐙 GitHub: https://github.com/PedroHPDev
+* **Front-End:** HTML5, CSS3 (Flexbox, Grid, Responsividade), JavaScript (ES6, Lógica, Manipulação de DOM, Eventos)
+* **Controle de Versão:** Git e GitHub
+* **Infraestrutura/Suporte:** Redes (IP, Gateway, DNS), Instalação e Manutenção de Hardware/Software
 
 ---
+
+### 📫 Vamos nos conectar?
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-ferreira-053a4415a/)
+* 📧 E-mail: [Seu E-mail aqui]
 
 ⭐ Obrigado por visitar meu perfil!
 
