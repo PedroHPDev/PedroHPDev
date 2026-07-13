@@ -38,7 +38,7 @@ Projeto focado em solidificar os fundamentos de semântica e estilização web.
 ### 📫 Vamos nos conectar?
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-ferreira-053a4415a/)
-* 📧 E-mail: [Seu E-mail aqui]
+* 📧 E-mail: [Phenriqueferreira491@gmail.com]
 
 ⭐ Obrigado por visitar meu perfil!
 
