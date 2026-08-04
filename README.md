@@ -7,9 +7,13 @@ HTML5 • CSS3 • JavaScript • React • Node.js • Git & GitHub
 
 ### 🧠 Sobre mim
 
-Sou profissional da área de TI com sólida experiência em infraestrutura, suporte técnico e hardware, expandindo minha atuação para a engenharia de software como **Desenvolvedor Front-End**. 
+Sou profissional da área de TI com experiência em suporte técnico, infraestrutura e hardware, direcionando minha carreira para o desenvolvimento Front-End.
 
-Atualmente curso **Gestão de Tecnologia da Informação (UniCV)** e me especializo no ecossistema Front-End. Desenvolvo projetos aplicando conceitos de estrutura semântica, estilização moderna, responsividade e interatividade dinâmica. Unindo minha bagagem de resolução de problemas de infraestrutura à escrita de código, busco minha primeira oportunidade como Dev Júnior.
+Atualmente curso Gestão de Tecnologia da Informação e desenvolvo projetos com HTML, CSS e JavaScript, aplicando semântica, responsividade, metodologia BEM, manipulação do DOM e boas práticas de Git e GitHub.
+
+Também iniciei meus estudos em React e Node.js, ampliando minha compreensão sobre desenvolvimento de interfaces, componentes, aplicações web e integração entre Front-End e Back-End.
+
+Busco minha primeira oportunidade como Desenvolvedor Front-End Júnior, levando para o desenvolvimento minha experiência com resolução de problemas, atendimento técnico e diagnóstico de falhas.
 
 ---
 
@@ -29,9 +33,11 @@ Projeto focado em solidificar os fundamentos de semântica e estilização web.
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Front-End:** HTML5, CSS3 (Flexbox, Grid, Responsividade), JavaScript (ES6, Lógica, Manipulação de DOM, Eventos)
-* **Controle de Versão:** Git e GitHub
-* **Infraestrutura/Suporte:** Redes (IP, Gateway, DNS), Instalação e Manutenção de Hardware/Software
+- **Front-End:** HTML5, CSS3, Flexbox, Grid, Responsividade, BEM e JavaScript
+- **Em aprendizado:** React, componentização, props, estado e fundamentos de Node.js
+- **Controle de versão:** Git e GitHub
+- **Ferramentas:** VS Code, Figma e terminal
+- **Infraestrutura e suporte:** Redes, Windows, instalação e manutenção de hardware e software
 
 ---
 
