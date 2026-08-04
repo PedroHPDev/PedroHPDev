@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Pedro Henrique
 
 ### 🎯 Desenvolvedor Front-End Júnior | Graduando em Gestão de TI
-💡 HTML5 • CSS3 • JavaScript (ES6) • Git & GitHub
 
+HTML5 • CSS3 • JavaScript • React • Node.js • Git & GitHub
 ---
 
 ### 🧠 Sobre mim
